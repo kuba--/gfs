@@ -17,7 +17,7 @@ $ sudo make all
 
 * gfs-stat - prints information about Gluster's i-node.
 ```
-$ ./gfs-stat volume1 10.10.10.10 /roots
+$ ./gfs-stat volume1 10.10.10.10 /root
 
 Path: /root
 File type: directory
