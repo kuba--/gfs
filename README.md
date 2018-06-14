@@ -1,5 +1,6 @@
 # gfs
-GlusterFS API utils
+GlusterFS API utils.
+
 All scripts use GlusterFS' native library to _stat_, _find_, _cat_ files (doesn't matter if you use FUSE, NFS or any other protocol).
 
 ### building
